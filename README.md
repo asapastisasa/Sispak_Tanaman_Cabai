@@ -52,20 +52,6 @@ Gejala → Rule → Diagnosa → Solusi
 
 ---
 
-## 🗂️ Struktur Folder / File
-
-Beberapa file utama dalam project ini:
-
-* `config.php` → Koneksi database
-* `get_questions.php` → Mengambil data gejala
-* `detail_aturan.php` → Detail aturan sistem
-* `detail_konsultasiadm.php` → Detail konsultasi admin
-* `hapus_aturan.php` → Menghapus data aturan
-* `about.php` → Halaman tentang sistem
-* `README.md` → Dokumentasi project
-
----
-
 ## 🛠️ Instalasi & Cara Menjalankan
 
 ### 1️⃣ Clone Repository
